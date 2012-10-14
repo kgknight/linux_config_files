@@ -1,4 +1,4 @@
 rm -rf vmware-tools-distrib
 sudo mount /dev/cdrom /media/cdrom
 tar xvf /media/cdrom/VMwareTools-9.0.0-782409.tar.gz
-sudo ./vmware-tools-distrib/vmware-isntall.pl -d
+sudo ./vmware-tools-distrib/vmware-install.pl -d
