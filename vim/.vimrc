@@ -7,5 +7,5 @@ set smartindent
 syn on
 set cursorcolumn!
 set cursorline!
-hi CursorLine cterm=NONE ctermbg=darkgray 
-hi CursorColumn cterm=NONE ctermbg=darkgray
+hi CursorLine cterm=NONE ctermbg=232 
+hi CursorColumn cterm=NONE ctermbg=232
