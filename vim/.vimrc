@@ -51,3 +51,7 @@ map <Leader>d :NERDTreeToggle<CR>
 colorscheme vividchalk 
 
 "set statusline=%F%m%r%h%w[%L][%{&ff}]%y[%p%%][%04l,%04v]
+
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#branch#enabled = 1
+let g:airline#extensions#gutter#enabled = 1
